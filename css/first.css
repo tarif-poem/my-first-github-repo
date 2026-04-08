@@ -1,0 +1,27 @@
+body{
+    /* margin: 20px; */
+    /* background-color: rgb(255, 255, 255); */
+    padding:auto;
+}
+h3{color: tomato;
+    font-style:inherit;
+    font-size: x-large;
+    border: 5px solid rgb(64, 0, 255) ;
+    border-radius:0px 20px 0px 20px ;
+    width:fit-content;
+    padding: 10px;
+    margin-inline: auto;
+    background-color: rgb(192, 165, 165);
+    box-shadow: rgb(42, 251, 9) 5px 5px;
+
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(189, 207, 29);
+    justify-content: center;
+    align-items: center;
+}
